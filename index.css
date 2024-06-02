@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cantiner{
+    width: 1200px;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+}
+menu ul{
+    display: flex;
+    list-style: none;
+    margin-left: 300px;
+    gap: 50px;
+}
+menu ul li a{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+}
+menu ul li a:hover{
+    color: aqua;
+}
+.left h1{
+    font-size: 55px;
+}
+.left p{
+font-size: 24px;
+color: rgb(51, 51, 51);
+margin-top: 25px;
+}
+.ota{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left2{
+    width: 147px;
+    height: 50px;
+    background-color: rgb(238, 234, 255);
+    border-radius: 8%;
+}
+.right2{
+    width: 147px;
+    height: 50px;
+    background-color: rgb(238, 234, 255);
+    border-radius: 8%;
+}
+
+
+.ota2 .left2 a:hover{
+    color: aqua;
+}
+.epple{
+    margin-top: 12px;
+    margin-left: 20px;
+}
+.yt{
+    font-size: 15px;
+    color:rgb(88, 46, 255);
+    text-decoration: none;
+}
+.uy{
+    margin-bottom: 16px;
+    margin-left:-62px;
+}
+.yt:hover{
+    color: aqua;
+}
+.ota3{
+    width: 1000px;
+    height: 500px;
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ota3 .right3 h1{
+font-size: 45px;
+}
+.ota3 .right3 p{
+    font-size: 24px;
+   color: rgb(51, 51, 51);
+   margin-top: 18px;
+}
+.ota4{
+    width: 340px;
+    height: 90px;
+    margin-top: 18px; 
+    margin-left: -11px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.gh:hover{
+    color: aqua;
+}
+.ota5{
+    width: 1100px;
+    min-height: 450px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.baby{
+   width: 288px;
+   height: 327px;
+   border: solid gray 2px;
+   border-top: solid rgb(88, 46, 255) 13px;
+   text-align: center;
+}
+.baby2{
+    width: 288px;
+    height: 327px;
+    border: solid gray 2px;
+    border-top: solid rgb(255, 129, 74) 13px;
+ }
+ .baby3{
+    width: 288px;
+    height: 327px;
+    border: solid gray 2px;
+    border-top: solid rgb(49, 197, 161) 13px;
+ }
+ .yu{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: rgb(51, 51, 51);
+ }
+ .qu{
+    margin-top: 30px;
+ }
+ .ui{
+    color: rgb(51, 51, 51);
+ }
+ .baby2{
+    text-align: center;
+ }
+ .baby3{
+    text-align: center;
+ }
+ .top-qism{
+    margin-bottom: -70px;
+    margin-left: 418px;
+ }
+ .top-qism h1{
+    font-size: 45px;
+    color:rgb(51, 51, 51) ;
+    margin-top: 50px;
+ }
+.orqafon{
+    background-color: rgb(49, 197, 161);
+    height: 371px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.hu{
+color: white;
+font-size: 30px;
+}
+
+.ota44{
+    width: 340px;
+    height: 90px;
+    margin-top: 18px; 
+    margin-left: 430px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.iuyy{
+    margin-top: 12px;
+    margin-left: -15px;
+}
+.iyq{
+    margin-bottom: 16px;
+   margin-left:-80px;
+}
+.ota8{
+    height: 190px;
+    background-color: white;
+}
+.ota15{
+    width: 1000px;
+    height: 250px;
+    margin-left: 250px;
+    margin-top: -65px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.babyy{
+    width: 250px;
+    height: 200px;
+    color: rgb(51, 51, 51);
+    font-size: 17px;
+}
+.hg{
+    margin: 10px;
+    margin-left: -2px;
+}
+.pq{
+    font-size: 17px;
+    color: rgb(51, 51, 51) ;
+    margin: 10px;
+    margin-left: -0.3px;
+}
+.uyt{
+    margin-bottom: 10px;
+}
+.hero{
+    margin-top: -140px;
+    width: 340px;
+    margin-left: 100px;
+    border-radius: 8%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero .left .buttons .button{
+    text-decoration: none;
+    display: flex;
+    background-color: rgb(238, 234, 255);
+    padding: 15px;
+    border-radius: 5%;
+
+}
+.hero .left .buttons .button h5{
+    font-size: 8px;
+    margin-left: 6px;
+}
+.hero .left .buttons .button h3{
+    font-size: 20px;
+    margin-left: -43px;
+    margin-top: 11px;
+}
+.rightt .buttonss .buttonn{
+    text-decoration: none;
+    display: flex;
+    background-color: rgb(238, 234, 255);
+    padding: 15px;
+    border-radius: 5%;
+  width: 129px;
+}
+ .rightt .buttonss .buttonn h3{
+    margin-left: -80px;
+    margin-top: 10px;
+}
+.rightt .buttonss .buttonn h6{
+    margin-left: 7px;
+    
+}
+.heroo{
+    margin-top: 100px;
+    width: 340px;
+    margin-left: 10px;
+    border-radius: 8%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.heroo .left .buttons .button{
+    text-decoration: none;
+    display: flex;
+    background-color: rgb(238, 234, 255);
+    padding: 15px;
+    border-radius: 5%;
+
+}
+.heroo .left .buttons .button h5{
+    font-size: 8px;
+    margin-left: 6px;
+}
+.heroo .left .buttons .button h3{
+    font-size: 20px;
+    margin-left: -43px;
+    margin-top: 11px;
+}
+.herooo{
+    margin-top: 30px;
+    width: 340px;
+    margin-left: 430px;
+    border-radius: 8%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.herooo .left .buttons .button{
+    text-decoration: none;
+    display: flex;
+    background-color: rgb(238, 234, 255);
+    padding: 15px;
+    border-radius: 5%;
+
+}
+.herooo .left .buttons .button h5{
+    font-size: 8px;
+    margin-left: 6px;
+}
+.herooo .left .buttons .button h3{
+    font-size: 20px;
+    margin-left: -43px;
+    margin-top: 11px;
+}
